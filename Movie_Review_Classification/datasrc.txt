@@ -1,0 +1,1 @@
+For more information on this dataset visit http://ai.stanford.edu/~amaas/data/sentiment/
